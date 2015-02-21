@@ -5,7 +5,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew update
 
 # Install oh-my-zsh to beautify and manage zsh
-curl -L http://install.ohmyz.sh | sh
+#curl -L http://install.ohmyz.sh | sh
 
 # install brew taps, needs to be fixed properly later
 while read in; do brew tap "$in"; done < Taps
