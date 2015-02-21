@@ -6,10 +6,10 @@
 # General
 # =======
 # Set computer name (as done via System Preferences → Sharing)
-sudo scutil --set ComputerName "earth"
-sudo scutil --set HostName "earth"
-sudo scutil --set LocalHostName "earth"
-sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.server NetBIOSName -string "earth"
+sudo scutil --set ComputerName "Burger"
+sudo scutil --set HostName "Burger"
+sudo scutil --set LocalHostName "Burger"
+sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.server NetBIOSName -string "Burger"
 
 # Restart automatically if the computer freezes
 sudo systemsetup -setrestartfreeze on
@@ -25,7 +25,7 @@ defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 # ======
 
 # Save screenshots to the downlaods.
-defaults write com.apple.screencapture location "$HOME/Downloads/"
+#defaults write com.apple.screencapture location "$HOME/Downloads/"
 
 # Bottom right screen corner → Start screen saver
 defaults write com.apple.dock wvous-br-corner -int 5
@@ -57,10 +57,10 @@ defaults write com.apple.AppleMultitouchTrackpad TrackpadRightClick -bool true
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 
 # Finder: show status bar
-defaults write com.apple.finder ShowStatusBar -bool true
+#defaults write com.apple.finder ShowStatusBar -bool true
 
 # Finder: show path bar
-defaults write com.apple.finder ShowPathbar -bool true
+#defaults write com.apple.finder ShowPathbar -bool true
 
 # When performing a search, search the current folder by default
 defaults write com.apple.finder FXDefaultSearchScope -string "SCcf"
@@ -79,7 +79,7 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
 defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
 
 # Show the ~/Library folder
-chflags nohidden ~/Library
+#chflags nohidden ~/Library
 
 # Remove duplicates in the “Open With” menu (also see `lscleanup` alias)
 /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user
