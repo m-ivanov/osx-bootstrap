@@ -7,10 +7,10 @@ Bootstrap for new OSX installs
 
 These files will install a bunch of great tools on your newly installed Mac. If it's not a brand new install of OSX you'll most probably be able to use these anyway :)
 
-Run the following command to do a proper install of Homebrew, cask, oh-my-zsh, and a bunch of great tools and apps:
+Run the following command to do a proper install of Homebrew and a bunch of great tools and apps:
 
 ```
-curl --silent https://raw.githubusercontent.com/virtualswede/osx-bootstrap/master/install.sh | sh
+curl --silent https://raw.githubusercontent.com/iem4voos/osx-bootstrap/master/install.sh | sh
 ```
 
 If you don't want all the apps I use, make sure fork this and edit the Brewfile and Caskfile to your liking.
