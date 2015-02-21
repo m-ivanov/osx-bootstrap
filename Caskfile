@@ -1,5 +1,6 @@
 ## Install a ton of great apps using Homebrew cask instead of downloading, clicking and manually installing :)
 
+listleSnitch
 #trim-enabler
 menumeters
 apptrap
@@ -35,8 +36,14 @@ genymotion
 cyberduck
 # --- other standard 
 skype
-slack
+#slack
 # Compression keke ask password
 #keka
 #--------------------------
+
+# home configuration
+#gopro-studio
+adobe-dng-converter
+pixelmator
+cuda
 
