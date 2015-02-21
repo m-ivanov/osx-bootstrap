@@ -1,83 +1,42 @@
 ## Install a ton of great apps using Homebrew cask instead of downloading, clicking and manually installing :)
 
-## Standard app replacements
-# Web
-google-chrome
-# Terminal
-iterm2
-
-## Boxes
-# Virtualization
-vagrant
-virtualbox
-# Containers
-boot2docker
-
-## Coding
-# SourceTree
-sourcetree
-# Text editing
+#trim-enabler
+menumeters
+apptrap
+#----editors-----
+mou
 sublime-text3
-atom
-# Markdown
-macdown
-
-## Desktop
-# Proper screen ligthing
-flux
-# QuickLook plugins
-qlcolorcode qlstephen qlmarkdown quicklook-json betterzipql suspicious-package
-# Window management
-spectacle
-# Logitech Unifying software for keyboard and trackball
-logitech-unifying
-
-## Media
-# Video player
+#---- Quick look plugins ------
+qlcolorcode
+qlstephen 
+qlmarkdown 
+quicklook-json 
+qlprettypatch 
+quicklook-csv 
+betterzipql 
+qlimagesize 
+webpquicklook 
+suspicious-package
+# ---- multimedia stuff -----
 vlc
-# PDF reader
-skim
-# Picture viewer
-xee22
-# Comic reader
-simple-comic
-# Sonos music manager
-sonos
-# Soundcloud client (yes, that's the correct spelling)
-soundcleod
-# Adobe Flash
-flash
-# Podcast player
-instacast
-# Music player - install vox from App Store instead
-# Spotify player
-spotify
-
-
-## Work
-# Screen recording
-screenflow
-# Note taking
-evernote
-nvalt
-# VMware View
-vmware-horizon-view-client
-# Collaboration
-slack
-# Podcast cleanup
-levelator
-
-## Social
-# Skype
-skype
-
-## Storage
-# Online storage
-dropbox
+transmission
+flash-player
+google-chrome
 google-drive
+# ---- Developper -----
+java
+android-studio
+eclipse-java
+sourcetree
+dash
+versions
+virtualbox
+genymotion
+cyberduck
+# --- other standard 
+skype
+slack
 # Compression
 keka
+#--------------------------
 
-## Games
-# Steam client - now possible to stream games from the gaming rig to the Mac!
-steam
