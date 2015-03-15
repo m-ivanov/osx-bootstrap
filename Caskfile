@@ -27,16 +27,17 @@ google-drive
 # ---- Developper -----
 java
 android-studio
-eclipse-java
+#eclipse-java
 sourcetree
 dash
-versions
+#versions
 virtualbox
 genymotion
 cyberduck
+imageoptim
 # --- other standard 
 skype
-#slack
+slack
 # Compression keke ask password
 #keka
 #--------------------------
@@ -44,7 +45,8 @@ radiant-player
 
 # home configuration
 #gopro-studio
-adobe-dng-converter
-pixelmator
-cuda
+#adobe-dng-converter
+#pixelmator
+#cuda
+
 
