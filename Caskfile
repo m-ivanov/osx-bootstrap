@@ -1,6 +1,6 @@
 ## Install a ton of great apps using Homebrew cask instead of downloading, clicking and manually installing :)
 
-listleSnitch
+#listleSnitch
 #trim-enabler
 menumeters
 apptrap
@@ -22,8 +22,8 @@ suspicious-package
 vlc
 transmission
 flash
-google-chrome
-google-drive
+#google-chrome
+#google-drive
 # ---- Developper -----
 java
 android-studio
