@@ -21,12 +21,12 @@ suspicious-package
 # ---- multimedia stuff -----
 vlc
 transmission
-flash
+#flash
 #google-chrome
 #google-drive
 # ---- Developper -----
-java
-android-studio
+#java
+#android-studio
 #eclipse-java
 sourcetree
 dash
