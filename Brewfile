@@ -3,7 +3,10 @@ bash-completion
 caskroom/cask/brew-cask
 
 # --- Developper ---
+git
+git-flow
 node --with-java --universal 
+go
 
 #
 #subversion  --with-brewed-svn git
