@@ -2,3 +2,5 @@
 export EDITOR='subl -w'
 # defaults write com.apple.LaunchServices LSHandlers -array-add \
 #'{LSHandlerContentType=public.plain-text;LSHandlerRoleAll=com.sublimetext.3;}'
+
+# git config --global core.editor "subl -n -w"
