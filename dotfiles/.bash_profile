@@ -4,3 +4,5 @@ export EDITOR='subl -w'
 #'{LSHandlerContentType=public.plain-text;LSHandlerRoleAll=com.sublimetext.3;}'
 
 # git config --global core.editor "subl -n -w"
+
+# export PATH=$PATH:/Users/xxx/Applications/Dev/android-sdk/platform-tools
