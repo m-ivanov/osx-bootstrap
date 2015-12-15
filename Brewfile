@@ -10,4 +10,4 @@ node --with-java --universal
 
 ffmpeg --with-fdk-aac --with-freetype --with-libass --with-libquvi --with-libvorbis --with-libvpx --with-opus --with-x265
 
-Caskroom/cask/xquartz
+#Caskroom/cask/xquartz
