@@ -6,4 +6,5 @@ export EDITOR='subl -w'
 # git config --global core.editor "subl -n -w"
 
 # export PATH=$PATH:/Users/xxx/Applications/Dev/android-sdk/platform-tools
-export ANDROID_HOME="/Users/mic/Library/Android/sdk/platform-tools"
+export ANDROID_HOME="/Users/mic/Library/Android/sdk"
+export PATH=$ANDROID_HOME/platform-tools:$PATH
