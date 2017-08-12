@@ -22,3 +22,5 @@ source 'settings.sh'
 
 # Update OS X
 sudo softwareupdate -i -a
+
+mkdir -p $HOME/Workspace/GitLab
