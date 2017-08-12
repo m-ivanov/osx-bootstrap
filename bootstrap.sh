@@ -26,3 +26,5 @@ sudo softwareupdate -i -a
 mkdir -p $HOME/Workspace/GitLab
 defaults write com.apple.LaunchServices LSHandlers -array-add '{LSHandlerContentType=public.plain-text;LSHandlerRoleAll=com.sublimetext.3;}'
 git config --global core.editor "subl -n -w"
+ln -s "/Library/Mobile Documents/com~apple~CloudDocs/Config/sublimeText/User" ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
+
