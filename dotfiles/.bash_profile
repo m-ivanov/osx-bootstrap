@@ -8,3 +8,4 @@ export EDITOR='subl -w'
 # export PATH=$PATH:/Users/xxx/Applications/Dev/android-sdk/platform-tools
 export ANDROID_HOME="$HOME/Library/Android/sdk"
 export PATH=$ANDROID_HOME/platform-tools:$PATH
+export IDRIVE="$HOME/Library/Mobile\ Documents/com~apple~CloudDocs/"
