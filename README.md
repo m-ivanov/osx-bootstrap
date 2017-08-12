@@ -10,7 +10,7 @@ These files will install a bunch of great tools on your newly installed Mac. If 
 Run the following command to do a proper install of Homebrew and a bunch of great tools and apps:
 
 ```
-curl --silent https://raw.githubusercontent.com/iem4voos/osx-bootstrap/master/install.sh | sh
+curl --silent https://raw.githubusercontent.com/m-ivanov/osx-bootstrap/master/install.sh | sh
 ```
 
 If you don't want all the apps I use, make sure fork this and edit the Brewfile and Caskfile to your liking.
