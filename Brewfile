@@ -1,3 +1,7 @@
+curl --with-openssl
+wget
+kotlin
+awscli
 bash-completion
 #
 caskroom/cask/brew-cask
