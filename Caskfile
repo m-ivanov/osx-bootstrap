@@ -1,6 +1,7 @@
 ## Install a ton of great apps using Homebrew cask instead of downloading, clicking and manually installing :)
 # https://caskroom.github.io/search
 
+dash
 little-snitch
 menumeters
 #apptrap
