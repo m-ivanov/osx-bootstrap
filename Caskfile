@@ -11,11 +11,11 @@ grandperspective
 sequel-pro
 #----editors-----
 mou
-sublime-text3
+sublime-text
 macdown
 #---- Quick look plugins ------
 qlcolorcode
-qlstephen 
+#qlstephen 
 qlmarkdown 
 quicklook-json 
 qlprettypatch 
