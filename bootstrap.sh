@@ -17,7 +17,7 @@ brew install $(cat Brewfile|grep -v "#")
 brew cask install --appdir="/Applications" $(cat Caskfile|grep -v "#")
 
 # Set standard settings
-source 'settings.sh'
+# source 'settings.sh'
 #source 'symlink-dotfiles.sh'
 
 # Update OS X
