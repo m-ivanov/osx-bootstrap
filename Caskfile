@@ -1,22 +1,18 @@
 ## Install a ton of great apps using Homebrew cask instead of downloading, clicking and manually installing :)
 # https://caskroom.github.io/search
-
+# #little-snitch #mou #qlstephen #google-drive
+# 
+# java
+# android-studio#virtualbox
 dash
-little-snitch
 menumeters
-#apptrap
 appcleaner
 the-unarchiver
-#-------
 grandperspective
 sequel-pro
-#----editors-----
-mou
 sublime-text
 macdown
-#---- Quick look plugins ------
 qlcolorcode
-#qlstephen 
 qlmarkdown 
 quicklook-json 
 qlprettypatch 
@@ -25,25 +21,11 @@ betterzipql
 qlimagesize 
 webpquicklook 
 suspicious-package
-# ---- multimedia stuff -----
 vlc
 google-chrome
-google-drive
-# ---- Developper -----
-java
-android-studio
 sourcetree
-dash
-#virtualbox
 cyberduck
-# --- other standard 
 skype
 slack
-#----
 docker
 kitematic
-
-
-
-
-
