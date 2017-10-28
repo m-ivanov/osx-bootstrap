@@ -11,10 +11,10 @@ brew update
 while read in; do brew tap "$in"; done < Taps
 
 # Install brews
-brew install $(cat Brewfile|grep -v "#")
+brew install $(cat Brewfile | grep -v "#")
 
 # Install casks
-brew cask install --appdir="/Applications" $(cat Caskfile|grep -v "#")
+brew cask install --appdir="/Applications" $(cat Caskfile | grep -v "#")
 
 # Set standard settings
 # source 'settings.sh'
